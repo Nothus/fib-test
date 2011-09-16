@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "fib-test.gemspec",
     "lib/fib-test.rb",
     "spec/fib-test_spec.rb",
     "spec/spec_helper.rb"
